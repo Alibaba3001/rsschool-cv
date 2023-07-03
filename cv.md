@@ -1,7 +1,5 @@
 # Alina Babyna
-
 ## Junior Frontend Developer
-
 ---
 
 ## Contact information:
@@ -14,15 +12,12 @@
 
 ## About me
 I decided to radically change my profession. Frontend is something that has attracted me for a long time. I am sure that I can develop my skills enough in this direction.
-
 ---
-
 ## Skills
 - HTML
 - CSS
 - FIGMA
 - JavaScript
-
 ---
 ## Code examples
 ``` function tbh(weight, height) {
@@ -30,9 +25,8 @@ I decided to radically change my profession. Frontend is something that has attr
             
             return tbh <= 18.5 ? 'Underweight' : bmi <= 25 ?    
             'Normal' : tbh <= 30 ? 'Overweight' : 'Obese';    
-        } ```
-
-
+        }
+ ```
 ## Education :
 
 * Belarusian State Pedagogical University 2019-2023
