@@ -1,4 +1,5 @@
 # Alina Babyna
+
 ## Junior Frontend Developer
 ---
 
@@ -12,7 +13,9 @@
 
 ## About me
 I decided to radically change my profession. Frontend is something that has attracted me for a long time. I am sure that I can develop my skills enough in this direction.
+
 ---
+
 ## Skills
 - HTML
 - CSS
