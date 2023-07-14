@@ -1,9 +1,18 @@
+html,body {width: 100%;height: 100%;}
+
 header {background-color: black; height: 175px;
 }
 img{ float: left;}
 h1{ color: rgb(239, 250, 78); text-align:left; }
 h3{color: rgb(239, 250, 78); text-align: left;}
 footer{background-color: rgb(239, 250, 78); height: 85px; text-align: center;}
+nav{color: rgb(239, 250, 78);}
+.menu{list-style-type:none ;
+padding-left: 0;
+margin-left: 0;}
+.menu a{text-decoration:none;}
+.menu li{display: inline;}
+
 section {
     float: left;
     margin: 0 1.5%;
@@ -23,7 +32,9 @@ section,
 aside,
 footer {
   margin: 0 1.5% 24px 1.5%;}
-  .container {
-    max-width: 1440px;
+  .container { width: 900px; height: 700px;
+    position: absolute;
+    left: 0;
+    right: 0;
     margin: 0 auto;
-  }
+    top: calc( 50% - 300px);}
